@@ -8,9 +8,9 @@ st.set_page_config(
 
 #กำหนดราคาตั๋ว
 prices = {
-    "standard": 100,
+    "Standard": 100,
     "VIP": 250,
-    "premium":400
+    "Premium":400
 }
 
 #แสดงหัวข้อเว็บไซต์
