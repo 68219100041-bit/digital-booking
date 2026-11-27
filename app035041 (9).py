@@ -48,7 +48,7 @@ quantity = st.number_input(
     value=1
 )
 
-#คำนวนราคา
+#คำนวณราคา
 price = prices[ticket]
 total = price*quantity
 
